@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/guiihcolusso/ProjectNode/issues"
   },
-  "homepage": "https://github.com/guiihcolusso/ProjectNode#readme"
+  "homepage": "https://github.com/guiihcolusso/ProjectNode#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
