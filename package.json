@@ -1,0 +1,19 @@
+{
+  "name": "projectnode",
+  "version": "1.0.0",
+  "description": "Projeto 2023",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guiihcolusso/ProjectNode.git"
+  },
+  "author": "Guilherme Colusso",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/guiihcolusso/ProjectNode/issues"
+  },
+  "homepage": "https://github.com/guiihcolusso/ProjectNode#readme"
+}
