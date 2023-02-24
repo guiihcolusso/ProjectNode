@@ -10,9 +10,9 @@ const ServerInfo = {
     Memoria_Total: `${parseInt(TRam)} MB`,
     Memoria_Disponivel:  `${parseInt(FRam)} MB`,
     Usando: `${usage.toFixed(2)} %`,
-    OS: os.platform(),
-    Arquitetura: os.arch() 
-
+    Sistema: os.version(),
+    Arquitetura: os.arch(),
+    OS: os.platform()
 }
 
 module.exports = ServerInfo

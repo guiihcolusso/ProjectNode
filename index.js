@@ -1,7 +1,6 @@
-const Info = require('./src/ServerInfo')
-const Rotas = require('./src/routes')
-
 const express = require('express')
+
+const Rotas = require('./src/routes')
 const configs = require('./src/config.json')
 
 const app = express();
